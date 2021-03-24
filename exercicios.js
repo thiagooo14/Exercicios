@@ -137,3 +137,13 @@ if (a % 2 !== 0 || b % 2 !== 0 || c % 2 !== 0) {
 console.log(temImpar);
 
 // 10
+console.log('exercicio 10');
+let valorCusto = 1;
+let valorVenda = 3;
+if (valorCusto >= 0 && valorVenda >= 0) {
+  let valorCustoTotal = valorCusto * 1.2;
+  let lucro = (valorVenda - valorCustoTotal) * 1000;
+  console.log(lucro);
+} else {
+  console.log('ERRO: não utilize numero negativo');
+}
