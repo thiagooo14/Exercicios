@@ -1,11 +1,11 @@
 ## Repositorio de Exercicios
 Pra melhor organizar, cada exercicio esta em branchs separadas, e cada um tem no README o que era proposto nas atividades!!
 --------------------------------------------------------------------------------------------------
-## Inicio de Java Script
+### Inicio de Java Script
 utilizei aqui pra praticar o basico do basico de JS criei os arquivos:
-### Aula.js
+#### Aula.js
 Conteu o que foi visto nas aulas e algumas anotações
-### Aquecimento.js
+#### Aquecimento.js
 Lista de exercicio de fixação pedida em aula:
 1. Crie uma constante chamada name e atribua a ela o seu nome;
 2. Crie uma constante chamada birthCity e atribua a ela a sua cidade natal;
@@ -18,11 +18,11 @@ Lista de exercicio de fixação pedida em aula:
 9. Crie uma variável chamada perimetro e atribua a ela a soma de todos os lados do retângulo;
 10. Crie uma variável que receba a nota de uma pessoa candidata em um desafio técnico, e atribua a ela um valor entre 1 e 100;
 11. Implemente uma lógica que verifique se a pessoa candidata foi aprovada, reprovada ou se ela está na lista de espera. Para isso, considere as seguintes informações:
-    - Se a nota for maior ou igual a 80, imprima "Parabéns, você foi aprovada(o)!"
-    - Se a nota for menor que 80 e maior ou igual a 60, imprima "Você está na nossa lista de espera"
-    - Se a nota for menor que 60, imprima "Você foi reprovada(o)"
-    - Altere o valor da nota para verificar se as condições que você implementou funcionam;
-### exercicios.js
+  - Se a nota for maior ou igual a 80, imprima "Parabéns, você foi aprovada(o)!"
+  - Se a nota for menor que 80 e maior ou igual a 60, imprima "Você está na nossa lista de espera"
+  - Se a nota for menor que 60, imprima "Você foi reprovada(o)"
+  - Altere o valor da nota para verificar se as condições que você implementou funcionam;
+#### exercicios.js
 Nos exercícios de hoje, você vai fazer quinze pequenos programas. Todos trabalham a lógica condicional ( if/else e switch ), operadores aritméticos ( + , - , * , / , % ) e operadores lógicos ( > , < , && , || ). Para que consiga executar seus códigos recomendamos que utilize a extensão Code Runner , você pode ver mais sobre ela no conteúdo que fizemos sobre o uso do VS Code .
 1. Faça cinco programas, um para cada operação aritmética básica. Seu programa deve ter duas variáveis, a e b , definidas no começo com os valores que serão operados. Faça programas para:
  - Adição
