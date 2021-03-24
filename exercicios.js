@@ -95,20 +95,45 @@ switch (peça.toLowerCase()) {
 
 // 7
 console.log('exercico 7');
-let nota = 42
+let nota = 42;
 
 if (nota > 100 || nota < 0) {
-    console.log("Nota invalida");
+  console.log('Nota invalida');
 } else if (nota >= 90) {
-    console.log('A');
+  console.log('A');
 } else if (nota >= 80) {
-    console.log('B');
+  console.log('B');
 } else if (nota >= 70) {
-    console.log('C');
+  console.log('C');
 } else if (nota >= 60) {
-    console.log('D');
+  console.log('D');
 } else if (nota >= 50) {
-    console.log('E');
+  console.log('E');
 } else {
-    console.log("F");
+  console.log('F');
 }
+
+// 8
+console.log('exercicio 8');
+a = 1;
+b = 2;
+c = 3;
+let temPar = false;
+
+if (a % 2 === 0 || b % 2 === 0 || c % 2 === 0) {
+  temPar = true;
+}
+console.log(temPar);
+// 9
+console.log('exercicio 9');
+a = 1;
+b = 5;
+c = 3;
+let temImpar = false;
+
+if (a % 2 !== 0 || b % 2 !== 0 || c % 2 !== 0) {
+  temImpar = true;
+}
+console.log(temImpar);
+
+// 10
