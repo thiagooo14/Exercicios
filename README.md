@@ -49,6 +49,6 @@ Atenção! Note que esse exercício é bem mais complexo que o anterior! Não ba
 4- Depois, faça uma pirâmide com n asteriscos de base:
 n = 5
 
-    *
-   ***
-  *****
+      *
+     ***
+    *****
