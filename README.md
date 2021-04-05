@@ -5,7 +5,7 @@ Pra melhor organizar, cada exercicio esta em branchs separadas, e cada um tem no
 ### Inicio de Java Script pt:2
 
 utilizei aqui pra praticar o basico do basico de JS.
-Treinei lógica de programação, criei os arquivos:
+Treinei objetos e funções, criei os arquivos:
 
 ### Aula.js
 
