@@ -36,6 +36,28 @@ let bestInTheWorld = [2006, 2007, 2008, 2009, 2010, 2018];
 
 5. Acesse a chave medals e faça um console.log no seguinte formato: "A jogadora possui 2 medalhas de ouro e 3 medalhas de prata".
 
+_for in_
+
+1. Usando o objeto abaixo, utilize For/in e imprima um console log 'Olá xxxxx' para cada nome no objeto.
+
+```js
+let names = {
+  person1: 'João',
+  person2: 'Maria',
+  person3: 'Jorge',
+};
+```
+
+2. Usando o objeto abaixo, utilize For/in e imprima um console.log com as chaves e seu valor 'modelo: A3 Sedan, marca: Audi, ano:2020' .
+
+```js
+let carro = {
+  model: 'A3 Sedan',
+  manufacturer: 'Audi',
+  year: 2020,
+};
+```
+
 ### exercicios.js
 
 #### Parte I - Objetos e For/In
